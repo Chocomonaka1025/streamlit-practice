@@ -1,0 +1,7 @@
+site_name: streamlit-practice
+site_url: https://Chocomonaka1025.github.io/streamlit-practice/
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
+repo_url: https://github.com/Chocomonaka1025/streamlit-practice
